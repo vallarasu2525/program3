@@ -1,0 +1,37 @@
+body { 
+background: #000; 
+color: white; 
+padding: 20px; 
+text-align: center; 
+} 
+h1, h2 { 
+display: inline-block; 
+padding: 10px 20px; 
+border-radius: 20px; 
+} 
+h1 { 
+background: white; 
+color: black; 
+} 
+55 
+h2 { 
+background: red; 
+color: white; 
+} 
+.table-container { 
+margin-top: 20px; 
+} 
+.btn-custom { 
+color: white; 
+border: 2px solid white; 
+padding: 8px 16px; 
+border-radius: 20px; 
+text-decoration: none; 
+font-size: 1.1rem; 
+} 
+.btn-custom:hover { 
+background: white; 
+color: black; 
+font-weight: bold; 
+transition: 0.5s; 
+}
